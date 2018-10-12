@@ -4,9 +4,10 @@ def get_indices_of_item_weights(weights, limit):
     if weights[i] not in history:
       history[weights[i]] = i
     
-
-    if limit - weights[i] in history and history[limit - weights[i]] != i:
-      return (i, history[limit - weights[i]])
+    difference = limit - weights[i]
+    
+    if difference in history and history[difference] != i:
+      return (i, history[difference])
   
   return ()
 
