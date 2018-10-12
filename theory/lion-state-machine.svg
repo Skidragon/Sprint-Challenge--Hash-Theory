@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="800" height="600" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="138.5" cy="231.5" rx="30" ry="30"/>
+	<text x="105.5" y="237.5" font-family="Times New Roman" font-size="20">sleeping</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="470.5" cy="231.5" rx="30" ry="30"/>
+	<text x="439.5" y="237.5" font-family="Times New Roman" font-size="20">hunting</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="138.5" cy="439.5" rx="30" ry="30"/>
+	<text x="103.5" y="445.5" font-family="Times New Roman" font-size="20">preening</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="470.5" cy="439.5" rx="30" ry="30"/>
+	<text x="446.5" y="445.5" font-family="Times New Roman" font-size="20">eating</text>
+	<polygon stroke="black" stroke-width="1" points="168.5,231.5 440.5,231.5"/>
+	<polygon fill="black" stroke-width="1" points="440.5,231.5 432.5,226.5 432.5,236.5"/>
+	<text x="248.5" y="252.5" font-family="Times New Roman" font-size="20">lion is hungry</text>
+	<polygon stroke="black" stroke-width="1" points="470.5,261.5 470.5,409.5"/>
+	<polygon fill="black" stroke-width="1" points="470.5,409.5 475.5,401.5 465.5,401.5"/>
+	<text x="311.5" y="341.5" font-family="Times New Roman" font-size="20">lion has killed prey</text>
+	<polygon stroke="black" stroke-width="1" points="440.5,439.5 168.5,439.5"/>
+	<polygon fill="black" stroke-width="1" points="168.5,439.5 176.5,444.5 176.5,434.5"/>
+	<text x="263.5" y="430.5" font-family="Times New Roman" font-size="20">lion is full</text>
+	<polygon stroke="black" stroke-width="1" points="138.5,409.5 138.5,261.5"/>
+	<polygon fill="black" stroke-width="1" points="138.5,261.5 133.5,269.5 143.5,269.5"/>
+	<text x="143.5" y="341.5" font-family="Times New Roman" font-size="20">lion is tired</text>
+</svg>
+
